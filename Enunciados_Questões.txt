@@ -1,0 +1,38 @@
+1.Os ingressos para um evento foram classificados em 3 grupos: Normal, estudante e acessível.
+Elabore um programa para ler a quantidade de ingressos vendidos para cada um dos grupos e mostre o público total.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2.Escreva um programa que obtenha os dados necessários para calcular a área de um triângulo e mostre a área calculada.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3.Escreva um programa na linguagem Java que a partir da quantidade comercializada de um produto e de seu preço de venda, mostre o total do item.
+Exemplo:
+Quantidade vendida do produto: 8
+Preço de venda: R$ 15,00
+Total do item: 8 x 15 => 120
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4.Um abastecimento de combustível foi realizado em três bombas (parte em gasolina, parte em etanol e parte em GNV*). O posto cobra R$ 7,199 por litro de gasolina, R$ 5,419 por litro de etanol e R$ 4,259 por metro cúbico do GNV.
+Elabore um programa que leia a quantidade de litros abastecidos de cada tipo de combustível e mostre o valor do abastecimento de cada tipo de combustível e o valor total do abastecimento.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5.Escreva um programa para conceder um aumento percentual de salário.
+
+Entradas:
+salário
+percentual de aumento
+Processamento:
+Aumento salarial = salario * percentual de aumento / 100
+Salario aumentado = salario + aumento salarial
+Saída:
+Salario aumentado
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6.Um tapiocaria comercializa tapioca simples por R$ 5,00 e tapioca gourmet por R$ 8,00.
+Elabore um programa que leia a quantidade de tapiocas vendidas de cada tipo e quanto gastou para comprar os ingredientes. Mostre:
+Quantidade total de tapiocas vendidas
+O valor apurado com as vendas de tapiocas simples
+O valor apurado com as vendas de tapiocas gourmet
+O valor total bruto apurado com as vendas
+O valor total líquido* apurado com as vendas
+* Valor total líquido, descontar o valor gasto com ingredientes
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
