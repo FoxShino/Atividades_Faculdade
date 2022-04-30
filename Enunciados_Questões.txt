@@ -26,7 +26,6 @@ Salario aumentado = salario + aumento salarial
 Saída:
 Salario aumentado
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 6.Um tapiocaria comercializa tapioca simples por R$ 5,00 e tapioca gourmet por R$ 8,00.
 Elabore um programa que leia a quantidade de tapiocas vendidas de cada tipo e quanto gastou para comprar os ingredientes. Mostre:
 Quantidade total de tapiocas vendidas
@@ -35,6 +34,10 @@ O valor apurado com as vendas de tapiocas gourmet
 O valor total bruto apurado com as vendas
 O valor total líquido* apurado com as vendas
 * Valor total líquido, descontar o valor gasto com ingredientes
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7.A escola de natação Nado a Jato precisa alterar o seu sistema de cobrança para calcular o valor dos juros de parcela em atraso. O valor dos juros é cobrado por cada dia de atraso.
+Elabore um programa para receber os dados necessários, calcular e mostrar o valor total dos juros e o valor total do pagamento.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ATIVIDADE CARRO PIPA:
 Um determinado equipamento controla o fluxo de água de um poço artesiano. O equipamento tem 3 níveis de regulagem.
