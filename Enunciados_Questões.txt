@@ -39,6 +39,7 @@ O valor total líquido* apurado com as vendas
 Elabore um programa para receber os dados necessários, calcular e mostrar o valor total dos juros e o valor total do pagamento.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ATIVIDADE CARRO PIPA:
 Um determinado equipamento controla o fluxo de água de um poço artesiano. O equipamento tem 3 níveis de regulagem.
 No nível 1 o fluxo é de 12,5 l/m (litros por minuto).
@@ -46,3 +47,23 @@ No nível 2 o fluxo é de 25 l/m (litros por minuto).
 No nível 3 o fluxo é de  50 l/m (litros por minuto).
 - Escreva um programa para receber a capacidade em litros do reservatório de um carro pipa e o nível
 de regulagem do equipamento. Mostrar quantos minutos serão necessários para enher o reservatório do carro pipa.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ATIVIDADE MÉDIA FINAL:
+Escreva um programa para receber a média do semestre de um aluno (criticar para só receber média de 0 a 10).
+Se a média for de 3 a menor que 6: 
+           - Receber uma nota da final
+           - Calcular a média final (média do semestre + nota da final) / 2
+Mostrar:
+- APROVADO, se o aluno obteve média do semestre igual ou superior a 6
+- REPROVADO, se o aluno obteve média do semestre inferior a 3.
+- APROVADO NA FINAL, se o aluno obteve média final igual ou superior a 6
+
+- REPROVADO NA FINAL, se o aluno obteve média final inferior a 6
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ATIVIDADE IDADE MÉDIA:
+Escreva um programa para receber a idade de 6 pessoas.
+Mostre a idade média das idades.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
